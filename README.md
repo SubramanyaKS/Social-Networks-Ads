@@ -26,5 +26,24 @@ www.javatpoint.com/
 www.wikipedia.com/
 
 ## accuracy of various machine learning algorithm to social network dataset
-For decision tree
-
+1. For Decision tree
+  1. Training Accuracy  -  100.0%
+  2. Testing Accuracy   -  91.0%
+2. For Logistic Regression
+  1. Training Accuracy  -  82.33.0%
+  2. Testing Accuracy   -  89.0%
+3. For Naive Bayes
+  1. Training Accuracy  -  88.33%
+  2. Testing Accuracy   -  90.0%
+4. For K- Nearest Neighbour 
+  1. Training Accuracy  -  91.0%
+  2. Testing Accuracy   -  93.0%
+5. For Support Vector Machine
+  1. Training Accuracy  -  82.33%
+  2. Testing Accuracy   -  90.0%
+6. For Random Forest
+  1. Training Accuracy  -  99.0%
+  2. Testing Accuracy   -  92.0%
+7. For Kernel Support Vector Machine
+  1. Training Accuracy  -  91.33%
+  2. Testing Accuracy   -  93.0%
