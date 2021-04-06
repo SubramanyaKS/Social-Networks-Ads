@@ -1,7 +1,7 @@
 # Social-Networks-Ads
 Using various Machine Learning models to determine whether a  person is going to buy a new product or not.
 
-Since it is a ategorial dataset.So we use various classification supervised machine learning algorithm.
+Since it is a categorial dataset.So we use various classification supervised machine learning algorithm.
 
 # K Nearest Neighbors.
 The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems.
