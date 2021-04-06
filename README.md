@@ -24,3 +24,7 @@ Random Forest is a classifier that contains a number of decision trees on variou
 www.javatpoint.com/
 
 www.wikipedia.com/
+
+## accuracy of various machine learning algorithm to social network dataset
+For decision tree
+
